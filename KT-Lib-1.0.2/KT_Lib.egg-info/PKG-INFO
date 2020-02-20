@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: KT-Lib
+Version: 1.0.2
+Summary: This is a simple python wrapper package. It wraps the Tello EDU SDK 2.0 for use in the KIPR Aerial Botball Challenge Program.
+Home-page: https://github.com/kipr
+Author: KISS Institute
+Author-email: info@KIPR.org
+License: UNKNOWN
+Description: # KTLib
+        
+        This is a simple python wrapper package. It wraps the Tello EDU SDK 2.0 for use in the KIPR Aerial Botball Challenge Program.
+        
+        Contact: info@KIPR.org
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
